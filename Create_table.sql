@@ -12,5 +12,6 @@ duration VARCHAR(50),
 salary INT,
 time VARCHAR(50) NOT NULL,
 additional_info VARCHAR(50),
-link VARCHAR(50)
+link VARCHAR(50),
+intro_date DATE
 );
