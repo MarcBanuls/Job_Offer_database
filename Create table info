@@ -11,5 +11,6 @@ email VARCHAR(50),
 duration VARCHAR(50),
 salary INT,
 time VARCHAR(50) NOT NULL,
-additional_info VARCHAR(50)
+additional_info VARCHAR(50),
+link VARCHAR(50)
 );
